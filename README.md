@@ -19,13 +19,12 @@ Because Python is a very popular open-source software development language that 
 ---
 
 ### Day-1
-- 📔 Understanding of Big-O Time complexity and Space complexity
+- 📔 Understanding of Big-O Time complexity and Space complexity -> [[Link]](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 
 ### Day-2 
 - 📔 Studied all Basic Concepts of Array
-- 📔 Reversing an Array
-- 📔 Searing in an Array
-- 📔 Insertion & Deletion in an Array
+- 📔 [Reversing an Array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/1.%20Array_Reverse.py)
+- 📔 [Search an Element in an array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/2.%20Searching_Array.py) -> [GFG](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
 
 ### Day-3...
-- 📔 
+- 📔 Yet to come ✌
