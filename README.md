@@ -26,5 +26,10 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Reversing an Array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/1.%20Array_Reverse.py)
 - 📔 [Search an Element in an array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/2.%20Searching_Array.py) -> [GFG](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
 
-### Day-3...
-- 📔 Yet to come ✌
+### Day-3
+- 📔 [Find minimum and maximum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/)
+- 📔 [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1/)
+- 📔 [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/)
+
+### Day-4
+- Arriving
