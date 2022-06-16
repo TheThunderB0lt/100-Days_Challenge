@@ -2,11 +2,15 @@
 
 ## Why this Challenge ?
 
+In this challenge, I am doing a commitment to myself that I will try my best to first understand the algorithm behind every single problem then only I am going to start solving the problem.
+
 I need to develop myself and focus on my software profession.  I've faced a lot of rejection in my life.  To overcome this i started to do something on my own. My goal is to finish this challenge faster then expected and will try to cover all the important concepts.
 
-So, basically, this repository has a 100-Day Coding Challenge that I'm preparing for the SDE Role, something I'm doing on my own in Python Language.
+This is my Git-Hub Repository where I am going to push the code day to day from today itself to be 🎯 consistent & true with words🤗.
 
-Firstly I'm fan of Python 🐍, Because i love coding in python programming language which I'm compfortable with and I started exploring all the basics of that programming language.
+So, basically, this repository contains all of the important coding questions that I completed on my own in Python Language as part of my SDE role preparation.
+
+Firstly I'm fan of Python 🐍, Because i love coding in python programming language which I'm comfortable with and I started exploring all the basics of that programming language.
 
 ### Why Python?
 Because Python is a very popular open-source software development language that offers enhanced process control capabilities. It is able to develop complex multiple protocol network applications while also maintaining simple and straighforward syntax. 
@@ -24,7 +28,7 @@ Because Python is a very popular open-source software development language that 
 ### Day-2 
 - 📔 Studied all Basic Concepts of Array
 - 📔 [Reversing an Array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/1.%20Array_Reverse.py)
-- 📔 [Search an Element in an array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/2.%20Searching_Array.py) -> [GFG](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
+- 📔 [Search an Element in an array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/2.%20Searching_Array.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
 
 ### Day-3
 - 📔 [Find minimum and maximum element in an array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/3.%20Find%20Min_Max.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1/)
@@ -36,3 +40,13 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Largest Sum Contiguous Subarray -> Kadane's Algorithm](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/7.%20Largest%20Sum%20Contiguous%20Subarray.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - 📔 [Minimize the maximum difference between the heights](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/8.%20Minimize%20the%20maximum%20difference%20between%20the%20heights.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/minimize-the-heights-i/1)
 - 📔 [Maximum Product Subarray](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/9.%20Maximum%20Product%20Subarray.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
+
+### Day-5
+- 📔 [Understanding All Sorting Algorithms] - > [[Link]](https://towardsdatascience.com/sorting-algorithms-with-python-4ec7081d78a1)
+- 📔 I implemented them all in my fav programming language Python 🤷‍♂️
+- 📔 [Bubble Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/1.%20Bubble_Sort.py)
+- 📔 [Selection Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/2.%20Selection_sort.py)
+- 📔 [Insertion Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/3.%20Insertion_sort.py)
+
+### Day-6
+- 📔 On the Way...
