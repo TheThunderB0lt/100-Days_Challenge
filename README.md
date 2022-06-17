@@ -49,4 +49,8 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Insertion Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/3.%20Insertion_sort.py)
 
 ### Day-6
-- 📔 On the Way...
+- 📔 [Merge Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/4.%20Merge_sort.py)
+- 📔 [Quick Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/5.%20Quick_sort.py)
+
+### Day-7
+- 📔 Yet to Come
