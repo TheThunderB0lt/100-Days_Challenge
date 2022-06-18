@@ -42,7 +42,7 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Maximum Product Subarray](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/1.%20Arrays/9.%20Maximum%20Product%20Subarray.py) -> [[GFG]](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1)
 
 ### Day-5
-- 📔 [Understanding All Sorting Algorithms] - > [[Link]](https://towardsdatascience.com/sorting-algorithms-with-python-4ec7081d78a1)
+- 📔 Understanding All Sorting Algorithms - > [[Link]](https://towardsdatascience.com/sorting-algorithms-with-python-4ec7081d78a1)
 - 📔 I implemented them all in my fav programming language Python 🤷‍♂️
 - 📔 [Bubble Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/1.%20Bubble_Sort.py)
 - 📔 [Selection Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/2.%20Selection_sort.py)
