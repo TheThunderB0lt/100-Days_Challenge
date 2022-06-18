@@ -53,4 +53,10 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Quick Sort](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/2.%20Sorting_Algorithms/5.%20Quick_sort.py)
 
 ### Day-7
-- 📔 Yet to Come
+- 📔 [Linear Search](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/3.%20Searching/1.%20Linear_Search.py)
+- 📔 [Binary Search](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/3.%20Searching/2.%20Binary_Search.py)
+- 📔 [Search an Element in Sorted Array](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/3.%20Searching/3.%20Search%20an%20element%20in%20Sorted%20Array.py)
+- 📔 [Pow(x, n)](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/3.%20Searching/4.%20Pow(x%2C%20n).py) -> [[Link]](https://leetcode.com/problems/powx-n/)
+
+### Day-8
+- Yet to come
