@@ -59,4 +59,6 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Pow(x, n)](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/3.%20Searching/4.%20Pow(x%2C%20n).py) -> [[Link]](https://leetcode.com/problems/powx-n/)
 
 ### Day-8
-- Yet to come
+- 📔 [Understanding 2D Arrays/ 2D Matrix](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/4.%202D%20Arrays/1.%20Practicing.py) -> [[Link]](https://www.scaler.com/topics/2d-array-in-python/#traversing-values-in-python-2d-array)
+
+- 📔 Practicing Questions are coming!
