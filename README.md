@@ -62,4 +62,6 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Understanding 2D Arrays/ 2D Matrix](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/4.%202D%20Arrays/1.%20Practicing.py) -> [[Link]](https://www.scaler.com/topics/2d-array-in-python/#traversing-values-in-python-2d-array)
 - 📔 [Search element in a sorted matrix](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/4.%202D%20Arrays/2.%20Search%20element%20in%20a%20sorted%20matrix.py)
 - 📔 [Pascal’s Triangle](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/4.%202D%20Arrays/3.%20Pascal%E2%80%99s%20Triangle.py)
-- 📔 More 2D Array practicing Questions coming!
+
+### Day-9
+- 📔 Top 100 Codes ..
