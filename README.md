@@ -64,4 +64,4 @@ Because Python is a very popular open-source software development language that 
 - 📔 [Pascal’s Triangle](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/4.%202D%20Arrays/3.%20Pascal%E2%80%99s%20Triangle.py)
 
 ### Day-9
-- 📔 Top 100 Codes ..
+- 📔 Top 100 Codes (These codes are very important since these will help you clear our basic concepts in Python Language)
