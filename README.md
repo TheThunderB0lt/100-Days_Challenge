@@ -66,4 +66,9 @@ Because Python is a very popular open-source software development language that 
 ### Day-9
 - 📔 Top 100 Codes (These codes are very important since these will help you clear our basic concepts in Python Language)
 - 📔 [1. Positive or Negative number](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/1.%20Positive%20or%20Negative%20number.py)
+- 📔 [2. Even or Odd](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/2.%20Ever%20or%20Odd.py)
+- 📔 [3. Sum of first N natural number](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/3.%20Sum%20of%20first%20N%20natural%20number.py)
+- 📔 [4. Greatest of 3 numbers](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/4.%20Greatest%20of%203.py)
+- 📔 [5. Checking Leap year or not](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/5.%20Leap%20year%20or%20not.py)
+- 📔 [6. Playing with Prime Numbers](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/6.%20Playing%20with%20Prime%20Numbers.py)
 - 📔 More coming...
