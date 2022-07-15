@@ -73,5 +73,5 @@ Because Python is a very popular open-source software development language that 
 - 📔 [6. Playing with Prime Numbers](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/6.%20Playing%20with%20Prime%20Numbers.py)
 - 📔 [7. Sum of a digit of a Number](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/7.%20Sum%20of%20a%20digit%20of%20a%20Number.py)
 - 📔 [8. Playing with Reverse](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/8.%20Playing%20with%20Reverse.py)
-- 📔 [Palindrome checking](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/9.%20Palindrome.py)
-- 📔 More Coming...
+- 📔 [9. Palindrome checking](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/9.%20Palindrome.py)
+- 📔 [10. Armstrong-Number](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/10.%20Armstrong-Number.py)
