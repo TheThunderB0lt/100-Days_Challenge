@@ -75,3 +75,6 @@ Because Python is a very popular open-source software development language that 
 - 📔 [8. Playing with Reverse](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/8.%20Playing%20with%20Reverse.py)
 - 📔 [9. Palindrome checking](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/9.%20Palindrome.py)
 - 📔 [10. Armstrong-Number](https://github.com/TheThunderB0lt/100-Days_Challenge/blob/main/5.%20Top%20100%20Codes/10.%20Armstrong-Number.py)
+
+### Day-10
+- 📔 Top 100 Codes (More Problems Coming)...
